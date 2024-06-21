@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 I'm currently a Junior at Vanderbilt University, diving deep into the worlds of Computer Science 🖥️ and History 📚!
 
-🚀 I have a passion for innovation and entrepreneurship [I'm always working on a new startup!]. I'm currently working on [Open Diary!](https://open-diary.vercel.app/) Some of my creations include a ChatPDF clone and my bikesharing app, Vello. 
+🚀 I have a passion for innovation and entrepreneurship [I'm always working on a new startup!]. I'm currently working on [Atlog!](https://atlog.vercel.app/) Some of my creations include a ChatPDF clone and my bikesharing app, Vello. 
 
 👀 You can explore some of my work and projects here: https://vraj-dirajlal.vercel.app/
 
